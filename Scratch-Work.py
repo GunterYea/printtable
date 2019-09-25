@@ -44,4 +44,4 @@ def get_powertables(arg1, arg2):
             output_dict[x] = work_list
     print(output_dict)
 
-get_powertables([2,3], 4)
+#get_powertables([2,3], 4)
